@@ -34,7 +34,7 @@ public class AutoCompleteAndTemplates {
         AutoCompleteAndTemplates Hafis = new AutoCompleteAndTemplates();
         Hafis.tampilkanInformasi();
         Hafis.setNama("Pras");
-        Hafis.setUmur(35);
+        Hafis.setUmur(55);
         Hafis.tampilkanInformasi();
     }
 }
